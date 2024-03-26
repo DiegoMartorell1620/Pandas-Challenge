@@ -1,6 +1,6 @@
- Pandas-Challenge
+#Pandas-Challenge
 
-<!-- This project consists of an analysis of a list of 15 schools and 39170 students that belong to these schools. The dataset has a complete list of math and reading scores for these students and the budget each one of these schools have. -->
+#<!-- This project consists of an analysis of a list of 15 schools and 39170 students that belong to these schools. The dataset has a complete list of math and reading scores for these students and the budget each one of these schools have. -->
 
 <!-- The project will present the following analysis:
 
